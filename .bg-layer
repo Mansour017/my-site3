@@ -1,0 +1,4 @@
+.bg-layer{
+  position:fixed;inset:0;z-index:-3;
+  background: url('knight.jpg') center/cover no-repeat;
+}
